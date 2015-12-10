@@ -8,10 +8,10 @@
 * OSMwiki: https://wiki.openstreetmap.org/wiki/AGU_Indoor_Mapping
 
 
-**AGU Building Element View**
+**AGU Building Element Viewr**
 * memo: https://hackpad.com/AGU-Building-Element-Viewer-EWGg3hK3JFx
 * data: https://github.com/furuhashilab/FreshersSeminar2015/issues/4
-
+* OSMwiki: https://wiki.openstreetmap.org/wiki/AGU_Building_Element_Viewer
 **AGU Drone Aerial Research**
 
 * memo: https://hackpad.com/-AGU-Drone-Aerial-Research--cPAibpRMxEH
